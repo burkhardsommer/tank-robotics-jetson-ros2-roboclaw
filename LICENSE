@@ -1,11 +1,11 @@
-Copyright © 2026 Burkhard Sommer. All rights reserved.
+## License
 
-This project and its source code are proprietary.
+Copyright © 2026 Burkhard Sommer.
 
-No permission is granted to copy, modify, distribute, sublicense, publish, sell, or otherwise use this software or any portion of it without prior written permission from the copyright holder.
+This repository contains original project work developed by Burkhard Sommer, together with code, software components, models, and dependencies that may be subject to their respective licenses.
 
-The repository may be publicly visible on GitHub for documentation, demonstration, educational, or portfolio purposes. Public visibility does not grant any license or other rights to use the source code, models, documentation, or other project materials.
+The project source code and original project materials are provided publicly for documentation, demonstration, and portfolio purposes. No general permission is granted to copy, modify, distribute, sublicense, or commercially use the original project materials without prior written permission from the copyright holder, except where otherwise permitted by applicable third-party licenses.
 
-Third-party software, libraries, frameworks, and other components included in or used by this project remain subject to their respective licenses.
+Third-party libraries, frameworks, tools, models, and other components remain subject to their respective licenses and terms.
 
-For permission inquiries, please contact the copyright holder.
+Some portions of the source code were developed with the assistance of AI-based programming tools. AI assistance does not imply that third-party ownership rights are transferred to this repository; applicable third-party licenses and rights remain in effect.

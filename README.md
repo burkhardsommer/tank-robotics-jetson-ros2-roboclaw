@@ -229,4 +229,4 @@ Copyright © 2026 Burkhard Sommer. All rights reserved.
 
 This project and its source code are proprietary. No permission is granted to copy, modify, distribute, sublicense, or use the source code or other project materials without prior written permission from the copyright holder.
 
-The repository may be publicly visible on GitHub for documentation, demonstration, and portfolio purposes. Public visibility does not grant a license to use the code.
+Some portions of the source code were developed with the assistance of AI-based programming tools. AI assistance does not imply that third-party ownership rights are transferred to this repository; applicable third-party licenses and rights remain in effect.
